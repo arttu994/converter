@@ -1,11 +1,11 @@
 main {
-  height: 20rem;
+  height: 60vh;
   display: flex;
 }
 
 .converter-container {
   width: 80%;
-  height: 20vh;
+  height: 4rem;
   margin: auto;
   display: flex;
   justify-content: center;
@@ -16,7 +16,7 @@ main {
   margin: 1.25rem;
   color: white;
   border: 1px solid gray;
-  height: 70vh;
+  height: 35vh;
   width: 35vw;
   border-radius: 10px;
 }
