@@ -1,0 +1,11 @@
+header {
+  background-color: blue;
+  height: 4rem;
+  display: flex;
+}
+
+.header-container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+}

@@ -1,0 +1,29 @@
+main {
+  height: 20rem;
+  display: flex;
+}
+
+.converter-container {
+  width: 80%;
+  height: 20vh;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.converter-form {
+  margin: 1.25rem;
+  color: white;
+  border: 1px solid gray;
+  height: 70vh;
+  width: 35vw;
+  border-radius: 10px;
+}
+
+.title {
+  color: black;
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}

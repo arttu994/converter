@@ -1,0 +1,28 @@
+.converter-container {
+  display: flex;
+  margin: 0.5rem;
+}
+
+.converter-input {
+  width: 7rem;
+  height: 2rem;
+  border-top-color: rgba(0, 0, 0, 0.15);
+  border-left-color: rgba(0, 0, 0, 0.15);
+}
+
+.converter-input:focus {
+  outline: auto;
+}
+
+.converter-input:focus + .converter-select {
+  outline: auto;
+  border-left: none;
+}
+
+.converter-select {
+  border-left: none;
+  height: 38px;
+  background-color: white;
+  appearance: none;
+  border-top-color: rgba(0, 0, 0, 0.15);
+}

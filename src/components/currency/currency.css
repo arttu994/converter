@@ -1,0 +1,9 @@
+.header-item {
+  display: flex;
+  margin: 1rem;
+  color: white;
+}
+
+.header-item div {
+  margin: 0.25rem;
+}
